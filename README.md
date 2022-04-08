@@ -66,6 +66,8 @@ It really motivates me to continue this project further.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/01-Meyitzade-01/mytproguard)
 
+### deploy to railway 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/zK9AaA?referralCode=_A5Ktn)
 ### Traditional
 
 - Install Python v3.7 or later from [Python's Website](https://python.org)
